@@ -1,2 +1,2 @@
 
-## live demo https://developer0000000.github.io/flirtyflowers/
+## Go to replit for preview https://replit.com/@TayyabAfzal1/flirtyflowers
